@@ -4,4 +4,7 @@
 
 T = int(input())
 for i in range(T, -1, -1):       #for문으로 범위설정
-    print( i, end=' ' )
+    print(i, end=' ' )
+
+
+    
