@@ -94,6 +94,8 @@
 
 ![image](https://user-images.githubusercontent.com/99783474/189487302-da7daebe-c251-436c-91b3-bf44cd2d21c9.png)
 
+#### 💡 [Hash BAJ TIL](https://github.com/oiosu/codingtest_pass/tree/main/BAJ_%EB%B0%B1%EC%A4%80/%EB%B0%B1%EC%A4%80_%EB%B6%84%EB%A5%98_%ED%95%B4%EC%8B%B1)
+> 15829
 
 ---
 
@@ -122,6 +124,9 @@
 * **Sibling (Brother Node):** 동일한 Parent Node를 가진 노드
 
 * **Depth**: 트리에서 Node가 가질 수 있는 최대 Level
+
+#### 💡 [Tree BAJ TIL](https://github.com/oiosu/codingtest_pass/tree/main/%EB%B0%B1%EC%A4%80_%EB%8B%A8%EA%B3%84%EB%B3%84/8_%ED%8A%B8%EB%A6%AC)
+> 11725 1167
 
 
 ---
