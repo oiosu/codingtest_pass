@@ -1,6 +1,6 @@
 ### 01. Array 배열
 
-![image-20220910114622892](C:\Users\LGD\AppData\Roaming\Typora\typora-user-images\image-20220910114622892.png)
+![./image-20220910114622892](C:\Users\LGD\AppData\Roaming\Typora\typora-user-images\image-20220910114622892.png)
 
 * **데이터를 나열하고, 각 데이터를 인덱스에 대응하도록 구성한 데이터 구조** 
 * **파이썬에서는 리스트 타입이 배열 기능을 제공**
