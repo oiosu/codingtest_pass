@@ -170,7 +170,7 @@
 
 #### 📌 알고리즘 
 
-#### 탐색알고리즘 _ 이진탐색, 순차탐색 
+#### [탐색알고리즘 _ 이진탐색, 순차탐색](https://github.com/oiosu/codingtest_pass/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_fastcampus/%ED%83%90%EC%83%89%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20_%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89%2C%20%EC%88%9C%EC%B0%A8%ED%83%90%EC%83%89.md)
 
 #### - 이진탐색 Binary Search
 
