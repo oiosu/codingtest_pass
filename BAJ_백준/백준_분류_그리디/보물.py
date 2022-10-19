@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 n = int(input())
 
 a_list = list(map(int, input().split()))
@@ -10,4 +11,18 @@ s = 0
 for i in range(n):
     s += sorted_a[i] * sorted_b[i]
 
+=======
+n = int(input())
+
+a_list = list(map(int, input().split()))
+b_list = list(map(int, input().split()))
+
+sorted_a = sorted(a_list, reverse=True)
+sorted_b = sorted(b_list)
+
+s = 0
+for i in range(n):
+    s += sorted_a[i] * sorted_b[i]
+
+>>>>>>> ffba77d72193687ce75e356a6d29096d959d5789
 print(s)

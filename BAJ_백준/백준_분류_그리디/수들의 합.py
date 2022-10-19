@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 n = int(input())
 i = 0
 cnt = 0
@@ -9,3 +10,16 @@ while True:
     else:
         print(cnt)
         break
+=======
+n = int(input())
+i = 0
+cnt = 0
+while True:
+    if n > i: # n이 i보다 크면 n에 i를 차감
+        i += 1
+        n = n-i
+        cnt += 1
+    else:
+        print(cnt)
+        break
+>>>>>>> ffba77d72193687ce75e356a6d29096d959d5789

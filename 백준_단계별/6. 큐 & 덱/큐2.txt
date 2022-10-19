@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 15
 push 1
 push 2
@@ -13,4 +14,21 @@ empty
 pop
 push 3
 empty
+=======
+15
+push 1
+push 2
+front
+back
+size
+empty
+pop
+pop
+pop
+size
+empty
+pop
+push 3
+empty
+>>>>>>> ffba77d72193687ce75e356a6d29096d959d5789
 front
